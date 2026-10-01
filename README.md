@@ -150,4 +150,4 @@ The scraper handles webpage timeouts and other extraction errors without stoppin
 
 ## Author
 
-Vinay Bhaskar Bonam
+Teena Sri Bonam
